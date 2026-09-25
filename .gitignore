@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+report.md
+*.parquet
+.DS_Store
